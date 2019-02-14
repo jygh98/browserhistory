@@ -5,20 +5,6 @@ body {
   background-color: Ivory;
 }
 
-#navbar ul {
-  list-style-type: none;
-  margin: 0px;
-  padding: 0px;
-}
-
-#navbar li {
-  display: inline;
-}
-
-#navbar a {
-  margin-left: 75px;
-  margin-right: 75px;
-}
 h1, h2 {
   font-family: 'Oswald', sans-serif;
 }
@@ -26,22 +12,4 @@ h1, h2 {
 img {
   float: left;
   margin-right: 10px;
-}
-
-.left {
-  float: left;
-  width: 300px;
-  padding: 1em;
-}
-
-.center {
-  margin-left: 300px;
-  margin-right: 300px;
-  padding: 1em;
-}
-
-.right {
-  float: right;
-  width: 300px;
-  padding: 1em;
 }
